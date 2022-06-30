@@ -7,12 +7,21 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 ## Results: 
 
 - How many Vine reviews and non-Vine reviews were there?
+   - Vine Program reviews: 386
+   - Non-Vine Program reviews: 48717
+ 
 ![Totals](https://github.com/Lesliec87/Amazon_Vine_Analysis/blob/main/Resources/review%20totals.png)
    
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+   - Vine Program reviews: 176
+   - Non-Vine Program reviews: 24026
+
 ![Star ratings](https://github.com/Lesliec87/Amazon_Vine_Analysis/blob/main/Resources/5%20star%20ratings.png)
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+   - Vine Program reviews: 45.59585492227979
+   - Non-Vine Program reviews: 49.317486708951705
+   
 ![Percentage](https://github.com/Lesliec87/Amazon_Vine_Analysis/blob/main/Resources/percentages.png)
 
 ## Summary: 
